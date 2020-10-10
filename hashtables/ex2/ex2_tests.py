@@ -1,5 +1,5 @@
-import unittest
-
+import unittest 
+ 
 from ex2 import Ticket, reconstruct_trip
 
 
